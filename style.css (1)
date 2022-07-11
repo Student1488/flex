@@ -1,0 +1,59 @@
+.common{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background: url(https://naked-science.ru/wp-content/uploads/2016/07/field_image_00roket2016.jpg);
+    background-size: 100%;
+    background-attachment: fixed
+  
+}
+a:hover {
+    background-size: 100% 2px;
+}
+.History{
+    font-style:italic;
+   font-size:75px;
+   text-align: center;
+   
+}
+h1,h2,h3{
+font-family:Arial, Helvetica, sans-serif;
+margin-top: 1,5em;
+}
+
+h1.create{
+    font-size: 32px;
+}
+table,th,td{
+    border: 1px solid black;
+}
+figcaption{
+    font-style: italic;
+}
+.Map,.Landing,.Street,.Houston,.Discovery,.Navigable,.Office,.Space,.Center{
+    display:block;
+}
+.Samuel{
+        display:block;      
+       
+    }
+.test{
+    display:inline-flexbox;
+}    
+.p1{ 
+display:block;
+}
+
+
+a {
+    text-decoration-style: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+
+.menu{
+    font-style: italic; 
+}
